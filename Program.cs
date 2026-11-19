@@ -14,7 +14,6 @@
             }
             #endregion
 
-
             #region Question02
             var pages = Sourse.ProductList
                 .Skip(5)
